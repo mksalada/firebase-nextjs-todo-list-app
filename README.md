@@ -1,3 +1,14 @@
+# firebase-nextjs-todo-list-app
+
+- Made with [Next.js](https://nextjs.org/), [Firebase](https://firebase.google.com), [Firestore](https://console.firebase.google.com), and [TailwindCSS](https://tailwindcss.com)
+- Tutorial: ["How I created a Realtime app using Firebase Firestore & NextJS" by **My Dev Page**](https://www.youtube.com/watch?v=Zj8z-UaD6fo)
+
+> Download the React DevTools for a better development experience: https://reactjs.org/link/react-devtools
+
+---
+
+# Next.js App
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
